@@ -29,16 +29,16 @@ Passionate about building **high quality, inclusive and reliable software**.
 
 ## 🛠 Tech Stack
 
-Java  
-Selenium  
-JUnit / TestNG  
-RestAssured  
-API Testing  
-Accessibility Testing (WCAG)  
-Git / GitHub  
-HTML / CSS  
-Manual Testing  
-Test Documentation  
+- Java  
+- Selenium  
+- JUnit / TestNG  
+- RestAssured  
+- API Testing  
+- Accessibility Testing (WCAG)  
+- Git / GitHub  
+- HTML / CSS  
+- Manual Testing  
+- Test Documentation  
 
 ---
 
