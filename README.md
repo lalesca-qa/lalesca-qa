@@ -1,77 +1,41 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<!-- Professional animated header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Lalesca+Morais;QA+Engineer;Test+Automation+%7C+Accessibility+%7C+API+Testing;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+# Hello, I'm Lalesca Morais Silva 👋
 
----
-
-## 👩‍💻 About me
-
-QA Engineer focused on **Test Automation, Accessibility Testing and API Testing**.  
-Experienced with **Java, Selenium, RestAssured and WCAG guidelines**.  
-
-Passionate about building **high quality, inclusive and reliable software**.
-
-- 🌎 From Brazil  
-- 💻 Working with Quality Assurance  
-- ♿ Accessibility Testing Specialist  
-- 🤖 Test Automation  
+I am a **QA professional** passionate about ensuring high-quality software through **functional and automated testing**, process improvement, and effective collaboration with development teams.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dev-lalesca-morais&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lalesca-morais&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
----
-
-## 🛠 Tech Stack
-
-- Java  
-- Selenium  
-- JUnit / TestNG  
-- RestAssured  
-- API Testing  
-- Accessibility Testing (WCAG)  
-- Git / GitHub  
-- HTML / CSS  
-- Manual Testing  
-- Test Documentation  
+## 💼 Experience & Focus
+- Functional testing: test case design, exploratory testing, bug reporting, and requirement analysis.  
+- Test automation: **Java, Selenium, Cypress, Robot Framework, Maven, Git**.  
+- Continuous Integration/Continuous Delivery (CI/CD) pipelines and QA workflows.  
+- Agile methodologies: Scrum, Kanban, backlog grooming, and sprint planning.  
+- Accessibility testing (**bonus**): WCAG evaluation, barrier assessment, assistive tool usage.
 
 ---
 
-## 📂 Projects
+## 🛠️ Technical Skills
+| Area | Technologies/Skills |
+|------|-------------------|
+| Functional Testing | Manual testing, exploratory testing, test case design, requirement analysis |
+| Automation | Java, Selenium, Cypress, Robot Framework, Maven, Git |
+| QA Processes | Bug tracking, CI/CD integration, QA workflows, test planning |
+| Agile & DevOps | Scrum, Kanban, backlog management, sprint planning |
+| Bonus | Accessibility testing (WCAG, assistive tools, barrier assessment) |
 
-- QA Automation with Selenium  
-- API Test Automation with RestAssured  
-- Accessibility Testing Reports  
-- QA Portfolio Project  
-- Automation Practice Projects  
+---
 
-(Projects will be updated as I continue learning)
+## 🎯 Professional Goals
+- Grow into a **Senior QA role** with expertise in both functional and automated testing.  
+- Deliver **high-quality software** for international and remote projects.  
+- Contribute to efficient QA processes that improve **team productivity** and product reliability.  
+- Expand knowledge in **test automation frameworks, CI/CD, and accessibility testing**.
 
 ---
 
 ## 📫 Contact
-
-<a href = "mailto:lalesca.moraes.silva@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-
-<a href="https://www.linkedin.com/in/lalesca-morais-da-silva-955b82164/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-
----
-
-<div align="center">
-<br>
-<p><b>Visitors Count</b></p>  
-<p>
-<img src="https://profile-counter.glitch.me/dev-lalesca-morais/count.svg" />
-</p> 
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+- LinkedIn: [Lalesca Morais](www.linkedin.com/in/lalesca-morais-da-silva-955b82164)  
+- Email: lalesca.moraes.silva@gmail.com
+- GitHub: [Lalesca Morais](https://github.com/lalesca-qa)  
